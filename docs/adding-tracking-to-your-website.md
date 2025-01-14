@@ -1,4 +1,4 @@
-# Add Tracking to Your Website
+# Adding Tracking to Your Website
 
 This page guides you through the process of adding the Awesome Web Analytics tracking code to your website. It provides code examples and instructions for popular platforms and frameworks like WordPress, Django, and Node.js. It also includes troubleshooting tips in case you encounter any issues during the implementation.
 
