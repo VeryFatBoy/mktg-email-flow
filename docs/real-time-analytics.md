@@ -1,4 +1,5 @@
 # Real-time Analytics
+
 This documentation explains the real-time analytics feature of Awesome Web Analytics. It describes how to access real-time data in the dashboard, including the number of current visitors, their locations, and the pages they are viewing. It also highlights the benefits of real-time analytics and provides use cases for different types of websites.
 
 ## Table of Contents
