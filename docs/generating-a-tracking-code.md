@@ -1,4 +1,5 @@
 # Generating a Tracking Code
+
 This documentation explains how to generate a unique tracking code for your website. It provides step-by-step instructions on where to find the tracking code generation feature in the Awesome Web Analytics dashboard and how to customize the code to suit your needs. It also includes information on how to implement the tracking code on your website.
 
 ## Getting Started: Generate Tracking Code
