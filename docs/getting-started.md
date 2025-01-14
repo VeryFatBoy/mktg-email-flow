@@ -1,4 +1,5 @@
 # Getting Started
+
 This page provides an overview of how to get started with Awesome Web Analytics. It covers the steps to sign up for an account, generate a tracking code, and add it to your website. Additionally, it explains how to access your analytics dashboard and navigate through the different features.
 
 ### Signing Up for an Account
