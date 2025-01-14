@@ -1,4 +1,5 @@
 # Dashboard Customization
+
 This documentation explains how to customize the Awesome Web Analytics dashboard to suit your preferences and needs. It covers options like rearranging widgets, creating custom dashboards, and setting up personalized reports. It also provides tips on utilizing the available widgets and visualizations to create insightful and tailored analytics views.
 
 ## Overview
