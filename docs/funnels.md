@@ -1,4 +1,5 @@
 # Funnels
+
 This documentation explains how to create and analyze funnels in Awesome Web Analytics. It provides step-by-step instructions on defining the stages of a funnel, setting up the necessary events or goals, and visualizing the funnel flow in the dashboard. It also discusses the insights gained from funnel analysis and how to identify areas for improvement in your conversion process.
 
 ## Introduction
