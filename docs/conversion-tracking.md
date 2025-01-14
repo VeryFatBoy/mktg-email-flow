@@ -1,4 +1,5 @@
 # Conversion Tracking
+
 This page provides information on how to set up conversion tracking with Awesome Web Analytics. It explains how to define and track conversions, such as sign-ups, purchases, or specific actions on your website. It covers the configuration steps in the dashboard and demonstrates how to interpret the conversion data to optimize your website's performance.
 
 This page provides detailed information on how to set up and utilize the conversion tracking feature with Awesome Web Analytics. It will guide you through the process of defining and tracking conversions, such as sign-ups, purchases, or specific actions on your website. Additionally, it covers the configuration steps in the Awesome Web Analytics dashboard and provides insights on how to interpret the conversion data to optimize your website's performance.
